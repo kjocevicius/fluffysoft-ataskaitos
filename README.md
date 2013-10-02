@@ -4,8 +4,8 @@ Dokumentas turi tokius failus:
 
 * `main.tex` - pagrindinis (šakninis) dokumento failas.
 * `title.tex` - titulinis lapas.
-* `annotation.tex` - anotacijos lapas su pora gyvenimą lengvinančių komandų.
-* `reports.tex` - ataskaitų šablonas (ataskaitų paketas "reports", `reports.sty`)
+* `annotation.tex` - anotacijos lapas.
+* `reports.tex` - ataskaitų failas (ataskaitų paketas "reports", `reports.sty`).
 
 Dokumente naudojami vaizdai saugomi subdirektorijoje `images/` šalia to dokumento.
 
