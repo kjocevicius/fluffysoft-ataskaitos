@@ -4,7 +4,6 @@ Dokumentas turi tokius failus:
 
 * `main.tex` - pagrindinis (šakninis) dokumento failas.
 * `title.tex` - titulinis lapas.
-* `schedule.tex` - lentelė darbo tvarkaraščiui.
 * `annotation.tex` - anotacijos lapas su pora gyvenimą lengvinančių komandų.
 * `reports.tex` - ataskaitų šablonas (ataskaitų paketas "reports", `reports.sty`)
 
